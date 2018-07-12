@@ -28,8 +28,6 @@ blog_url: https://openintel.org
 google_analytics: 12345
 
 links:
-  - title: about
-    url: /about
   - title: skills
     url: /skills
   - title: experience
